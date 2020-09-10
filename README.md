@@ -7,6 +7,10 @@ Training model to recognize handwritten digits using the MNIST data set. Then we
 
 
 pip3 install cv2
+
+
 pip3 install tensorflow 
+
+
 pip3 install matplotlib
 
